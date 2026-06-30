@@ -8,7 +8,6 @@ bin/
 
 # --- OS/System Files ---
 .DS_Store
-.env
 .env.example
 .cursorrules
 Thumbs.db
@@ -54,7 +53,6 @@ ishus.py
 create_phase9.py
 .gemini/
 .idea/
-.vscode/
 
 ishus.py
 # Temporary docs/notes
@@ -165,3 +163,7 @@ __snapshots__/
 .glassbox_write_probe
 internal/simulator/perf_baseline_*.json
 !internal/simulator/perf_baseline.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
